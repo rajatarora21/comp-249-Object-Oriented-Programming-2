@@ -1,0 +1,116 @@
+
+Directory:
+
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017
+Files:
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\01.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\02.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\03.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\04.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\05.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\06.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\07.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\08.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\09.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\10.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\11.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\12.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\13.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\14.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\15.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\16.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\17.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\18.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\19.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\20.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\21.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\22.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\23.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\24.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2017\25.txt
+
+
+Directory:
+
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018
+Files:
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\26.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\27.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\28.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\29.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\30.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\31.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\32.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\33.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\34.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\35.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\36.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\37.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\38.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\39.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\40.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\41.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\42.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\43.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\44.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\45.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\46.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\47.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\48.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\49.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\50.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\51.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\52.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\53.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\54.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\55.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\56.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\57.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\58.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\59.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2018\60.txt
+
+
+Directory:
+
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019
+Files:
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\61.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\62.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\63.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\64.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\65.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\66.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\67.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\68.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\69.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\70.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\71.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\72.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\73.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\74.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\75.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\76.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\77.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\78.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\79.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\80.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\81.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\82.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\83.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\84.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\85.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\86.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\87.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\88.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\89.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\90.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\91.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\92.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\93.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\94.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\95.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\96.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\97.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\98.txt
+E:\Rajat Arora\Software\Adv. java\Assignment3\Data\2019\99.txt
