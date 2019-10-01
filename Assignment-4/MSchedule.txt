@@ -1,0 +1,39 @@
+GYM101 Gym_Class
+S 07.00
+E 08.00
+
+TUT01 SOEN287_Tutorial
+S 10.00
+E 11.30
+
+BC101 Book_Club
+S 10.00
+E 12.00
+
+SEM01 Seminar
+S 11.30
+E 12.30
+
+SOEN287 Web_Programming
+S 11.45
+E 14.15
+
+LM101 Lunch_Meeting
+S 12.00
+E 13.00
+
+COMP249 Object_Oriented_Programming_II
+S 14.45
+E 17.15
+
+TUT02 COMP249_Tutorial
+S 18.00
+E 19.00
+
+HH101 Happy_Hour
+S 18.00
+E 19.00
+
+HH101 Happy_Hour
+S 18.00
+E 19.00
